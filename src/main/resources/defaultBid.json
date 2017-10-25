@@ -1,0 +1,11 @@
+{
+  "id": "d3809d6b-78c8-46ce-a580-0793c09012cc",
+  "some_data": [{
+    "some_other_data": [{
+      "id": "some string",
+      "some_other_id": "12345",
+      "value": 8.43,
+      "field1": {"something": 3}
+    }]
+  }]
+}
